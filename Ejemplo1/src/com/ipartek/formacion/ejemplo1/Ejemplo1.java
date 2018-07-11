@@ -31,7 +31,7 @@ public class Ejemplo1 {
 		Object o2 = i; // Lo que ocurre es -> new Integer(i);
 		
 		System.out.println(o2);
-		System.out.println("gato");
+		System.out.println("gato1");
 	}
 
 }
