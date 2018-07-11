@@ -29,6 +29,8 @@ public class Ejemplo1 {
 		int i = 5;
 		
 		Object o2 = i; // Lo que ocurre es -> new Integer(i);
+		
+		System.out.println(o2);
 	}
 
 }
